@@ -4,7 +4,11 @@
 int main() {
     std::cout << "Hello, Worl234d!" << std::endl;
     bool status;
-    lib_init();
+    status = lib_init();
+//    std::cout<<status;
+    //    lib_clear();
+//    lib_initialized();
+//    move_to(123,329);
     return 0;
 }
 
