@@ -4,6 +4,7 @@
 
 int main() {
     std::cout << "Hello, Worl234d!" << std::endl;
+
     bool status;
     status = lib_init();
     std::cout<<status;
@@ -16,6 +17,7 @@ int main() {
 //#include <iostream>
 //#include <windows.h>
 //int main() {
+
 //    HINSTANCE hDll = LoadLibrary("RfSpringVisionSystemLib.dll");
 //    if (hDll != NULL)
 //
