@@ -1,0 +1,10 @@
+2023-08-02 16:06 C-interface
+Creating the System
+Set mode from <uninitialized> to <initializing> done
+initScanner begin
+initScanner: Searching gor the scanner 229021
+SDK version: 2.25.2
+ScannerAggregator : 0 scanners found
+initScanner: FAILED: Scanner 229021 not found
+MovementSystem::init
+EtherCAT network: \Device\NPF_{537153EA-220E-4D86-AE50-504FBADD6F29}Network: slave count = -1
