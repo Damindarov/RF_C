@@ -3,7 +3,6 @@
 #include <windows.h>
 
 int main() {
-    std::cout << "Hello, Worl234d!" << std::endl;
 
     bool status;
     status = lib_init();
